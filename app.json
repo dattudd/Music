@@ -14,7 +14,7 @@
 		"music",
 		"hellbot"
 	],
-	"repository": "https://github.com/dattudd/Music/tree/master",
+	"repository": "https://github.com/dattudd/Music",
 	"env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",

@@ -101,7 +101,7 @@ This is a light weight source, as a result it gives faster and better performanc
     Copyright (C) 2023 <a href="https://github.com/The-HellBot">The-HellBot</a>
 </h4>
 
-Project [HellBot Music](https://github.com/The-HellBot/Music) is free software: you can redistribute it and/or modify
+Project [HellBot Music](https://github.com/dattudd/Music/blob/master) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.

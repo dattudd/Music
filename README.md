@@ -47,12 +47,12 @@ This is a light weight source, as a result it gives faster and better performanc
   - Smooth and fast.
   - Less Bugs.
   - Global Leaderboard support.
-> More features are listed at [docs.hellbot.tech](https://docs.hellbot.tech/)
+> More features are listed at [docs.hellbot.tech](https://kid_xs)
 
 ### 📣 Support
 - Found a bug? Or need help with something?
 
-> Fell free to reach us at [@HellBot_Chats](https://t.me/HellBot_Chats) to report a bug or get assistance to your problem.
+> Fell free to reach us at [@HellBot_Chats](https://t.me/kid_xs) to report a bug or get assistance to your problem.
 
 > We will appreciate feature requests from you all.
 
@@ -98,7 +98,7 @@ This is a light weight source, as a result it gives faster and better performanc
 </p>
 
 <h4 align="center">
-    Copyright (C) 2023 <a href="https://github.com/The-HellBot">The-HellBot</a>
+    Copyright (C) 2023 <a href="https://github.com/dattudd/Music">The-HellBot</a>
 </h4>
 
 Project [HellBot Music](https://github.com/dattudd/Music/tree/master) is free software: you can redistribute it and/or modify

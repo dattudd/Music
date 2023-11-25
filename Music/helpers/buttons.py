@@ -237,7 +237,7 @@ class MakeButtons:
                 self.ikb(text="Source 📦", callback_data="source"),
             ],
             [
-                self.ikb(text="Add Me To Group 👥", url=f"https://t.me/{username}?startgroup=true"),
+                self.ikb(text="𝗔𝗱𝗱 𝗺𝗲 𝗯𝗮𝗯𝘆 💗", url=f"https://t.me/{username}?startgroup=true"),
             ],
             [
                 self.ikb(text="🗑", callback_data="close"),

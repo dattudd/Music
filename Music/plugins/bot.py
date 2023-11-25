@@ -32,7 +32,7 @@ async def start(_, message: Message):
                     results[0]["duration"],
                     hellbot.app.mention,
                 )
-                await message.reply_photo(
+                await message.reply_sticker("CAACAgUAAxkBAAEKw9xlVhm4TXiCDGioNNMu1PkmcXZnpgAC2gkAAkn9OVVD6VOXCBy75jME")
                     results[0]["thumbnail"],
                     caption=about,
                     reply_markup=InlineKeyboardMarkup(
@@ -89,7 +89,7 @@ async def help(_, message: Message):
             reply_markup=InlineKeyboardMarkup(Buttons.help_pm_markup()),
         )
     elif message.chat.type in [ChatType.GROUP, ChatType.SUPERGROUP]:
-        await message.reply_sticker(
+        await message.reply_text(
             TEXTS.HELP_GC,
             reply_markup=InlineKeyboardMarkup(
                 Buttons.help_gc_markup(hellbot.app.username)

@@ -204,8 +204,8 @@ class MakeButtons:
     def source_markup(self):
         buttons = [
             [
-                self.ikb(text="Github ❤️", url="https://github"),
-                self.ikb(text="Repo 📦", url="https://github"),
+                self.ikb(text="Github ❤️", url=""),
+                self.ikb(text="Repo 📦", url=""),
             ],
             [
                 self.ikb(text="world Indians group  { 🇮🇳 }", url="Telugu_Kannada_ChattingGroup"),
@@ -265,7 +265,7 @@ class MakeButtons:
                 self.ikb(text="➍ Others", callback_data="help|others"),
             ],
             [
-                self.ikb(text="➎ Owner" "@iam_datta", callback_data="help|owner"),
+                self.ikb(text="➎ chinna", callback_data="help|owner"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),

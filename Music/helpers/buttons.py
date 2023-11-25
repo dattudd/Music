@@ -204,8 +204,8 @@ class MakeButtons:
     def source_markup(self):
         buttons = [
             [
-                self.ikb(text="Github ❤️", url="https://github.com/The-HellBot"),
-                self.ikb(text="Repo 📦", url="https://github.com/The-HellBot/Music"),
+                self.ikb(text="Github ❤️", url="https://github"),
+                self.ikb(text="Repo 📦", url="https://github"),
             ],
             [
                 self.ikb(text="Under HellBot Network { 🇮🇳 }", url="https://t.me/HellBot_Networks"),

@@ -208,11 +208,11 @@ class MakeButtons:
                 self.ikb(text="Repo 📦", url="https://github"),
             ],
             [
-                self.ikb(text="Under HellBot Network { 🇮🇳 }", url="https://t.me/HellBot_Networks"),
+                self.ikb(text="world Indians group  { 🇮🇳 }", url="Telugu_Kannada_ChattingGroup"),
             ],
             [
-                self.ikb(text="Support 🎙️", url="https://t.me/HellBot_Chats"),
-                self.ikb(text="Updates 📣", url="https://t.me/Its_HellBot"),
+                self.ikb(text="Support 🎙️", url="https://t.me/iam_datta"),
+                self.ikb(text="Updates 📣", url="https://t.me/iam_datta"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),
@@ -265,7 +265,7 @@ class MakeButtons:
                 self.ikb(text="➍ Others", callback_data="help|others"),
             ],
             [
-                self.ikb(text="➎ Owner", callback_data="help|owner"),
+                self.ikb(text="➎ Owner" "@iam_datta", callback_data="help|owner"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),

@@ -204,8 +204,8 @@ class MakeButtons:
     def source_markup(self):
         buttons = [
             [
-                self.ikb(text="Github ❤️", url="https://github.com/ArchBots"),
-                self.ikb(text="Repo 📦", url="https://github.com/ArchBots"),
+                self.ikb(text="Github", url="https://github.com/ArchBots"),
+                self.ikb(text="Repo", url="https://github.com/ArchBots"),
             ],
             [
                 self.ikb(text="kid x music  { 🇮🇳 }", url="https://t.me/kid_xs"),
@@ -233,7 +233,7 @@ class MakeButtons:
     def start_pm_markup(self, username: str):
         buttons = [
             [
-                self.ikb(text="Help ⚙️", callback_data="help|back"),
+                self.ikb(text="Help ", callback_data="help|back"),
                 self.ikb(text="Source 📦", callback_data="source"),
             ],
             [

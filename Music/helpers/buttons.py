@@ -265,7 +265,7 @@ class MakeButtons:
                 self.ikb(text="➍ Others", callback_data="help|others"),
             ],
             [
-                self.ikb(text="➎ Owner", callback_data="help|owner"),
+                self.ikb(text="➎ chinna", callback_data="help|owner"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),

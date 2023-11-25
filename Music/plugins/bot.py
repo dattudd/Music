@@ -32,7 +32,7 @@ async def start(_, message: Message):
                     results[0]["duration"],
                     hellbot.app.mention,
                 )
-                await message.reply_photo("
+                await message.reply_photo(
                     results[0]["thumbnail"],
                     caption=about,
                     reply_markup=InlineKeyboardMarkup(

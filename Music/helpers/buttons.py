@@ -204,15 +204,15 @@ class MakeButtons:
     def source_markup(self):
         buttons = [
             [
-                self.ikb(text="Github ❤️", url=""),
-                self.ikb(text="Repo 📦", url=""),
+                self.ikb(text="Github ❤️", url="https://github.com/dattudd/Arch"),
+                self.ikb(text="Repo 📦", url="https://github.com/dattudd/Arch"),
             ],
             [
-                self.ikb(text="world Indians group  { 🇮🇳 }", url="Telugu_Kannada_ChattingGroup"),
+                self.ikb(text="world Indians group"{ 🇮🇳 }", url="Telugu_Kannada_ChattingGroup"),
             ],
             [
-                self.ikb(text="Support 🎙️", url="https://t.me/iam_datta"),
-                self.ikb(text="Updates 📣", url="https://t.me/iam_datta"),
+                self.ikb(text="Support 🎙️", url="https://t.me/Telugu_Kannada_ChattingGroup"),
+                self.ikb(text="Updates 📣", url="https://t.me/Telugu_Kannada_ChattingGroup""),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),

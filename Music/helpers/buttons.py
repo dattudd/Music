@@ -208,7 +208,8 @@ class MakeButtons:
                 self.ikb(text="Repo 📦", url="https://github.com/dattudd/Arch"),
             ],
             [
-                self.ikb(text="{ 🇮🇳 }", url="),
+                self.ikb(text="Under HellBot Network { 🇮🇳 }", url="https://t.me/HellBot_Networks"),
+            ],", url="),
             ],
             [
                 self.ikb(text="Support 🎙️", url="https://t.me/"),

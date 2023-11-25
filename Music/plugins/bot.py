@@ -126,4 +126,6 @@ async def sysinfo(_, message: Message):
             hellbot.app.mention,
         ),
         reply_markup=InlineKeyboardMarkup(Buttons.close_markup()),
-    )
+                )
+
+

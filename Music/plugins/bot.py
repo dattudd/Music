@@ -89,7 +89,7 @@ async def help(_, message: Message):
             reply_markup=InlineKeyboardMarkup(Buttons.help_pm_markup()),
         )
     elif message.chat.type in [ChatType.GROUP, ChatType.SUPERGROUP]:
-        await message.reply_text(
+        await message.reply_sticker(
             TEXTS.HELP_GC,
             reply_markup=InlineKeyboardMarkup(
                 Buttons.help_gc_markup(hellbot.app.username)

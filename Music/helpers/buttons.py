@@ -208,11 +208,11 @@ class MakeButtons:
                 self.ikb(text="Repo 📦", url="https://github.com/dattudd/Arch"),
             ],
             [
-                self.ikb(text="world Indians group"{ 🇮🇳 }", url="Telugu_Kannada_ChattingGroup"),
+                self.ikb(text="world Indians group"{ 🇮🇳 }", url="kid_xs"),
             ],
             [
-                self.ikb(text="Support 🎙️", url="https://t.me/Telugu_Kannada_ChattingGroup"),
-                self.ikb(text="Updates 📣", url="https://t.me/Telugu_Kannada_ChattingGroup""),
+                self.ikb(text="Support 🎙️", url="https://t.me/kid_xs"),
+                self.ikb(text="Updates 📣", url="https://t.me/@kid_xs"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),

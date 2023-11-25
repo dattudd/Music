@@ -211,8 +211,8 @@ class MakeButtons:
                 self.ikb(text="Under HellBot Network { 🇮🇳 }", url="https://t.me/kid_xs"),
             ],
             [
-                self.ikb(text="Support 🎙️", url="https://t.me/kid_xs"),
-                self.ikb(text="Updates 📣", url="https://t.me/kid_xs"),
+                self.ikb(text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/kid_xs"),
+                self.ikb(text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/kid_xs"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),

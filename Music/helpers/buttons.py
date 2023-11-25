@@ -208,7 +208,7 @@ class MakeButtons:
                 self.ikb(text="Repo 📦", url="https://github.com/dattudd/Arch"),
             ],
             [
-                self.ikb(text=""{ 🇮🇳 }", url=""),
+                self.ikb(text="{ 🇮🇳 }", url="),
             ],
             [
                 self.ikb(text="Support 🎙️", url="https://t.me/"),

@@ -67,7 +67,7 @@ class TEXTS:
         "» Anyone pretending to be the developer of this bot and selling the code, is a scammer.\n\n"
         "» Please consider giving a star to the repository if you liked the project.\n"
         "» Feel free to contact us if you need any help regarding the source code.\n\n"
-        "❤️🎶 { by{chinna}"
+        "❤️🎶 {0}"
     STATS = (
         "**⤞ Server Stats:**\n"
         "    __Total Users:__ `{0} users`\n"

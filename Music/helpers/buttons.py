@@ -234,7 +234,7 @@ class MakeButtons:
         buttons = [
             [
                 self.ikb(text="Help ", callback_data="help|back"),
-                self.ikb(text="Source 📦", callback_data="source"),
+                self.ikb(text="Source ", callback_data="source"),
             ],
             [
                 self.ikb(text="𝗔𝗱𝗱 𝗺𝗲 𝗯𝗮𝗯𝘆 💗", url=f"https://t.me/{username}?startgroup=true"),

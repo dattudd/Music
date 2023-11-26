@@ -68,6 +68,7 @@ class TEXTS:
         "__» Please consider giving a star to the repository if you liked the project.__\n"
         "__» Feel free to contact us if you need any help regarding the source code.__\n\n"
         "❤️🎶 {0}"
+        "owner "{chinna}"
     )
     STATS = (
         "**⤞ Server Stats:**\n"
@@ -212,4 +213,4 @@ class TEXTS:
         "__» Enjoy the music and let us know if you have any suggestions for improvement.__\n\n"
         "❤️🎶 @{2}"
     )
-    PERFORMER = "[ †hê Hêllẞø† ]"
+    PERFORMER = "[ †hê kid x music ]"

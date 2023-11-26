@@ -35,7 +35,7 @@ class TEXTS:
         "**❆** {0}\n\n"
         "**♪ Song Name:** __{1}__\n"
         "**♪ Duration:** __{2}__\n"
-        "**♪ Requested By:** {3}"
+        "**♪ Auxed By:** {3}"
     )
     PROFILE = (
         "**{0}\nUser Profile**\n\n"
@@ -61,13 +61,14 @@ class TEXTS:
         "**❆** {5}"
     )
     SOURCE = (
-        "Source 📦:\n\n"
-        "Note: \n» The source code is available on GitHub. You can find the link below.\n"
-        "» Every project available under The-HellBot are open-source and free to use and modify to your needs.\n"
-        "» Anyone pretending to be the developer of this bot and selling the code, is a scammer.\n\n"
-        "» Please consider giving a star to the repository if you liked the project.\n"
-        "» Feel free to contact us if you need any help regarding the source code.\n\n"
+        "**Source 📦:**\n\n"
+        "**Note:** \n__» The source code is available on GitHub. You can find the link below.__\n"
+        "__» Every project available under The-HellBot are open-source and free to use and modify to your needs.__\n"
+        "__» Anyone pretending to be the developer of this bot and selling the code, is a scammer.__\n\n"
+        "__» Please consider giving a star to the repository if you liked the project.__\n"
+        "__» Feel free to contact us if you need any help regarding the source code.__\n\n"
         "❤️🎶 {0}"
+    )
     STATS = (
         "**⤞ Server Stats:**\n"
         "    __Total Users:__ `{0} users`\n"

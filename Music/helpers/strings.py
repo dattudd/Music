@@ -33,9 +33,9 @@ class TEXTS:
     )
     PLAYING = (
         "**❆** {0}\n\n"
-        "**♪ Song Name:** __{1}__\n"
+        "**♪ Title Name:** __{1}__\n"
         "**♪ Duration:** __{2}__\n"
-        "**♪ Auxed By:** {3}"
+        "**♪ Requested By:** {3}"
     )
     PROFILE = (
         "**{0}\nUser Profile**\n\n"
@@ -49,9 +49,9 @@ class TEXTS:
     )
     QUEUE = (
         "**Added to Queue (#{0})** \n\n"
-        "**» Song Name:** __{1}__\n"
+        "**» Title Name:** __{1}__\n"
         "**» Duration:** __{2}__\n"
-        "**» Queued By:** {3}"
+        "**» Requested By:** {3}"
     )
     SONG_CAPTION = (
         "**⊸ Title:** [{0}]({1})\n\n"

@@ -61,14 +61,13 @@ class TEXTS:
         "**❆** {5}"
     )
     SOURCE = (
-       ᴛʜᴀɴᴋs ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {0}.\n{1} ᴄᴀɴ ɴᴏᴡ ᴩʟᴀʏ sᴏɴɢs ɪɴ ᴛʜɪs ᴄʜᴀᴛ.\n\nғᴏʀ ɢᴇᴛᴛɪɴɢ ᴀɴʏ ᴛʏᴩᴇ ᴏғ ʜᴇʟᴩ ʏᴏᴜ ᴄᴀɴ ᴊᴏɪɴ ᴏᴜʀ sᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ."
-start_2 : "ʜᴇʏ {0} \n    ᴛʜɪs ɪs {1} 🥀\n\n๏ ᴀ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs."
-start_3 : "ʜᴇʏ,\n  ᴛʜɪs ɪs {0}\n\nᴀ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\nᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ:- @{1}\nᴀssɪsᴛᴀɴᴛ ɪᴅ:- {2}"
-start_4 : "ᴛʜᴇ ᴏᴡɴᴇʀ ᴏғ {0}, [{1}] ᴊᴜsᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
-start_5 : "ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀ ᴏғ {0}, [{1}] ᴊᴜsᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
-start_6 : "❗️ sᴜᴘᴇʀɢʀᴏᴜᴘ ɴᴇᴇᴅᴇᴅ ❗️\n\nᴘʟᴇᴀsᴇ ᴄᴏɴᴠᴇʀᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴜᴘᴇʀɢʀᴏᴜᴘ ᴀɴᴅ ᴛʜᴇɴ ᴀᴅᴅ ᴍᴇ ʙᴀᴄᴋ.\n\nʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ sᴜᴘᴇʀɢʀᴏᴜᴘ ?\n🥱 ᴍᴀᴋᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ's ᴄʜᴀᴛ ʜɪsᴛᴏʀʏ ᴠɪsɪʙʟᴇ ᴏɴᴄᴇ."
-start_7 : "ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ\n\nᴛʜɪs ᴄʜᴀᴛ ɪs ʙʟᴀᴄᴋʟɪsᴛ ғᴏʀ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ. ʀᴇǫᴜᴇsᴛ ᴀ sᴜᴅᴏ ᴜsᴇʀ ᴛᴏ ᴡʜɪᴛᴇʟɪsᴛ ʏᴏᴜʀ ᴄʜᴀᴛ, sᴜᴅᴏ ᴜsᴇʀs [ʟɪsᴛ]({0}) , ᴇʟsᴇ ғᴜ*ᴋ ᴏғғ." 
-    )
+        "Source 📦:\n\n"
+        "Note: \n» The source code is available on GitHub. You can find the link below.\n"
+        "» Every project available under The-HellBot are open-source and free to use and modify to your needs.\n"
+        "» Anyone pretending to be the developer of this bot and selling the code, is a scammer.\n\n"
+        "» Please consider giving a star to the repository if you liked the project.\n"
+        "» 
+        "❤️🎶 {0}"
     STATS = (
         "**⤞ Server Stats:**\n"
         "    __Total Users:__ `{0} users`\n"
